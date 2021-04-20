@@ -1,3 +1,4 @@
+```uml
 @startuml
 start
 :age=10;
@@ -12,3 +13,5 @@ endif
 
 end
 @enduml
+
+```
